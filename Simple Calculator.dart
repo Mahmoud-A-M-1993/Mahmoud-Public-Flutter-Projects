@@ -1,9 +1,6 @@
 /*
 Name: Mahmoud Abdullah Abdo Mohammed
-Phone: +967772420887
-Email: mahmoud.a.m.1993@gmail.com
-
-Task 5
+Simple Calculator
  */
 
 import 'package:flutter/material.dart';
